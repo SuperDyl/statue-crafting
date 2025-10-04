@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "group": "copper-golem-statues",
+    "ingredients": [
+        "carved_pumpkin",
+        "waxed_weathered_copper"
+    ],
+    "result": {
+        "id": "waxed_weathered_copper_golem_statue",
+        "count": 2
+    }
+}
