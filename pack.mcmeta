@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"description": [
-			{ "text": "v1.0.2", "color": "green" },
+			{ "text": "v1.1.0", "color": "green" },
 			{
 				"text": "\nCraft Copper Golem Statues",
 				"color": "white"
@@ -9,6 +9,6 @@
 			{ "text": "\nBy SuperDyl", "color": "white" }
 		],
 		"min_format": 88,
-		"max_format": 101
+		"max_format": 107
 	}
 }

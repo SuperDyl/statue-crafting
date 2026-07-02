@@ -1,0 +1,29 @@
+{
+    "criteria": {
+        "minecraft:inventory_changed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:copper"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        ["minecraft:inventory_changed"]
+    ],
+    "rewards": {
+        "recipes": [
+            "statue-crafting:unoxidized_golem",
+            "statue-crafting:exposed_golem",
+            "statue-crafting:weathered_golem",
+            "statue-crafting:oxidized_golem",
+            "statue-crafting:unoxidized_waxed_golem",
+            "statue-crafting:exposed_waxed_golem",
+            "statue-crafting:weathered_waxed_golem",
+            "statue-crafting:oxidized_waxed_golem"
+        ]
+    }
+}
